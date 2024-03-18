@@ -15,7 +15,7 @@ int first[70];
 int second[70];
 int s[70];
 int Numb[70];
-int ms[70][70];
+int ms[70][70]; 
 typedef node *lnk;
 lnk adj[100];
 void PS()
